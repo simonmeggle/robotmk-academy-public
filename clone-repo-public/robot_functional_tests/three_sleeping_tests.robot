@@ -6,8 +6,8 @@ First Test
 
 Second Test
     Log To Console  The second test sleeps two seconds.
-    Sleep  1
-    
+    Sleep  2
+
 Third Test
     Log To Console  The third test sleeps three seconds.
-    Sleep  1
+    Sleep  3
